@@ -1,1 +1,1 @@
-window.location.assign("https://youtube.com"); 
+window.location.assign("https://www.youtube.com/watch?v=dQw4w9WgXcQ"); 
