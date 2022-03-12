@@ -1,1 +1,1 @@
-window.setTimeout(1, window.location.assign("https://www.youtube.com/watch?v=dQw4w9WgXcQ"));
+window.setTimeout(1000, window.location.assign("https://www.youtube.com/watch?v=dQw4w9WgXcQ"));
